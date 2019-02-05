@@ -1,5 +1,9 @@
 ## Inverse Radon Transform ##
 
+<b>キーワード:</b>CT掃描, 逆ラドン変換, 画像の再構成, サイノグラム <br />
+<b>關進     :</b>CTスキャナ, 對偶雷登變換, 正弦圖, 圖像重建 <br />
+
+
 ### Introduction/簡介 ###
 <p align="center">"<i>Seeing is believing</i>";   "<i>Picture is worth thousands of words</i>";   "百聽不如一見"</center>;  "百聞は一見にしかず"</p> <br />
 
