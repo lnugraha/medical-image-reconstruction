@@ -9,3 +9,8 @@
   <li /> Filtered Back Projection (<b>FBP</b>) </li>
   <li /> Algebraic Reconstruction Technique (<b>ART</b>) </li>
 </ol>
+
+### TO DO ###
+- [ ] Build modules and packages (pip)
+- [ ] Documentation using DoxygenPy
+- [ ] Walkthrough with JUpyter Notebook
