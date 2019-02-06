@@ -29,6 +29,7 @@ The following table compares each reconstructed image with the original version.
     <th> <image src="./reconstructed/shepp_logan_FBP.png" height="250" width="250"> </th>
   </tr>
 </table>
+</p>
 
 |   |**ART**|**FBP**|
 |:----------|:----------:|:----------:|
@@ -37,7 +38,6 @@ The following table compares each reconstructed image with the original version.
 | **Contrast**   | Good       | Poor       |
 | **Noise**      | Low        | High       |
 
-</p>
 <hr />
 
 ### Progress Line ###
