@@ -18,14 +18,21 @@
 ## Comparison between ART and FBP ##
 <table>
   <tr>
-    <th> Original Image </th> ART Reconstructed <th> </th> <th> FBP Reconstructed </th>
+    <th>Original Image </th> <th>ART Reconstructed <th> </th> <th>FBP Reconstructed </th>
   </tr>
   <tr>
-    <td> <image src="./reconstructed/shepp_logan.png" height="150" width="150"> </td>
-    <td> <image src="./reconstructed/shepp_logan.png" height="150" width="150"> </td>
-    <td> <image src="./reconstructed/shepp_logan.png" height="150" width="150"> </td>
+    <td> <image src="./reconstructed/shepp_logan_original.png" height="150" width="150"> </td>
+    <td> <image src="./reconstructed/shepp_logan_ART.png" height="150" width="150"> </td>
+    <td> <image src="./reconstructed/shepp_logan_FBP.png" height="150" width="150"> </td>
 </tr>
 </table>
+
+|**        **|**ART**|**FBP**|
+|----------|:----------:|:----------:|
+| **Speed**      | Slow       | Fast       |
+| **Resolution** | Poor       | Good       | 
+| **Contrast**   | Good       | Poor       |
+| **Noise**      | Low        | High       |
 
 <hr />
 ## Progress Line ##
