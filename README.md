@@ -1,4 +1,5 @@
-<p align="center"><h3> Visualization of Inverse Radon Transform Using Arithmetic Libraries (VIRTUAL) </h3></p> <hr />
+<h3><p align="center"> Visualization of Inverse Radon Transform Using Arithmetic Libraries (VIRTUAL) </p></h3>
+<hr />
 
 ##### Keywords: CT Scanners, Inverse Radon Transform, Sinogram, and Image Reconstruction  #####
 ##### 關進     : CT掃描, 對偶雷登變換, 正弦圖, 圖像重建                                        #####
