@@ -6,7 +6,7 @@
 ##### キーワード: CTスキャナ, 逆ラドン変換, 画像の再構成, サイノグラム                            #####
 
 ### Introduction ###
-<p align="center">"<i>Seeing is believing</i>"; "百聽不如一見"</center>; "百聞は一見にしかず"</p> <br />
+<p align="center">"<i>Seeing is believing</i>"; "百聽不如一見"</center>; "百聞は一見にしかず"</p>
 <p align="justify">All idioms above describe how important an image is compared with hundreds of words. We would like reconstruct CT images from their respective sinogram (raw data). Assuming readers are already familiar with <b>Radon Transform</b>, this repository attempts to reconstruct a CT sinogram using the following two popular methods:</p>
 
 <ol>
