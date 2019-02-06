@@ -10,7 +10,7 @@
 <p align="justify">All idioms above describe how important an image is compared with hundreds of words. We would like reconstruct CT images from their respective sinogram (raw data). Assuming readers are already familiar with <b>Radon Transform</b>, this repository attempts to reconstruct a CT sinogram using the following two popular methods:</p>
 
 <ol>
-  <li /> Algebraic Reconstruction Technique (<b>ART</b>) </li>
+  <li /> Algebraic Reconstruction Technique (<b>ART</b>) -- colloquially called <b>Iterative Method</b> </li>
   <li /> Filtered Back Projection (<b>FBP</b>) </li>
 </ol>
 
