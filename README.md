@@ -11,15 +11,26 @@
 <p align="justify">All idioms above describe how important an image is compared with hundreds of words. We would like reconstruct CT images from their respective sinogram (raw data). Assuming readers are already familiar with <b>Radon Transform</b>, this repository attempts to reconstruct a CT sinogram using the following two popular methods:</p>
 
 <ol>
-  <li /> Filtered Back Projection (<b>FBP</b>) </li>
   <li /> Algebraic Reconstruction Technique (<b>ART</b>) </li>
+  <li /> Filtered Back Projection (<b>FBP</b>) </li>
 </ol>
 
+## Comparison between ART and FBP ##
+<table>
+  <tr>
+    <th> Original Image </th> ART Reconstructed <th> </th> <th> FBP Reconstructed </th>
+  </tr>
+  <tr>
+    <td> <image src="./reconstructed/shepp_logan.png" height="150" width="150"> </td>
+    <td> <image src="./reconstructed/shepp_logan.png" height="150" width="150"> </td>
+    <td> <image src="./reconstructed/shepp_logan.png" height="150" width="150"> </td>
+</tr>
+</table>
+
+<hr />
 ## Progress Line ##
 - [ ] Algebraic Reconstruction Technique (**ART**)
 - [ ] Filtered Back Projection (**FBP**) -- using ramp filter 
-- [ ] Adaptive Statistical Iterative Reconstruction (**ASIR**)
-- [ ] Model-based Iterative Reconstruction (**MIRE**)
 
 ## TO DO ##
 - [ ] Walkthrough with Jupyter Notebook
