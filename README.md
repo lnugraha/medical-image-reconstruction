@@ -1,4 +1,4 @@
-<h3><p align="center"> Visualization of Inverse Radon Transform Using Arithmetic Libraries (VIRTUAL) </p></h3>
+<h3><p align="center"> Visualization of Inverse Radon Transform Using Arithmetic Libraries (V.I.R.T.U.A.L) </p></h3>
 <hr />
 
 ##### Keywords: CT Scanners, Inverse Radon Transform, Sinogram, and Image Reconstruction  #####
@@ -16,7 +16,7 @@
 
 ### Comparison between ART and FBP ###
 The following table compares each reconstructed image with the original version. Each image has a size of 128 x 128 pixels.
-
+<p align="center">
 <table>
   <tr>
     <th>Original Image </th>
@@ -37,6 +37,7 @@ The following table compares each reconstructed image with the original version.
 | **Contrast**   | Good       | Poor       |
 | **Noise**      | Low        | High       |
 
+</p>
 <hr />
 
 ### Progress Line ###
