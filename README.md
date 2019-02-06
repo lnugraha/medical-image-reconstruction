@@ -1,10 +1,8 @@
-<b><p align="center"> Visualization of Inverse Radon Transform Using Arithmetic Libraries (VIRTUAL) </p></b> <br />
-<hr>
+<h3> Visualization of Inverse Radon Transform Using Arithmetic Libraries (VIRTUAL) </h3> <hr />
 
 ##### Keywords: CT Scanners, Inverse Radon Transform, Sinogram, and Image Reconstruction  #####
 ##### 關進     : CT掃描, 對偶雷登變換, 正弦圖, 圖像重建                                        #####
 ##### キーワード: CTスキャナ, 逆ラドン変換, 画像の再構成, サイノグラム                            #####
-
 
 ### Introduction/簡介/紹介 ###
 <p align="center">"<i>Seeing is believing</i>"; "百聽不如一見"</center>; "百聞は一見にしかず"</p> <br />
@@ -25,9 +23,9 @@
     <th>FBP Reconstructed </th>
   </tr>
   <tr>
-    <td> <image src="./reconstructed/shepp_logan_original.png" height="250" width="250"> </td>
-    <td> <image src="./reconstructed/shepp_logan_ART.png" height="250" width="250"> </td>
-    <td> <image src="./reconstructed/shepp_logan_FBP.png" height="250" width="250"> </td>
+    <td> <image src="./reconstructed/shepp_logan_original.png" height="350" width="350"> </td>
+    <td> <image src="./reconstructed/shepp_logan_ART.png" height="350" width="350"> </td>
+    <td> <image src="./reconstructed/shepp_logan_FBP.png" height="350" width="350"> </td>
   </tr>
 </table>
 
