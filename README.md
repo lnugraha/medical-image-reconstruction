@@ -41,10 +41,10 @@ The following table compares each reconstructed image with the original version.
 <hr />
 
 ### Progress Line ###
-- [ ] Algebraic Reconstruction Technique (**ART**)
+* Algebraic Reconstruction Technique (**ART**)
   - [X] Using Matlab
   - [ ] Using Python
-- [ ] Filtered Back Projection (**FBP**)
+* Filtered Back Projection (**FBP**)
   - [X] Using Matlab
   - [ ] Using Python
 
