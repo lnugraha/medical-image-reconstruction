@@ -42,7 +42,11 @@ The following table compares each reconstructed image with the original version.
 
 ### Progress Line ###
 - [ ] Algebraic Reconstruction Technique (**ART**)
-- [ ] Filtered Back Projection (**FBP**) -- using ramp filter 
+  - [X] Using Matlab
+  - [ ] Using Python
+- [ ] Filtered Back Projection (**FBP**)
+  - [X] Using Matlab
+  - [ ] Using Python
 
 ### TO DO ###
 - [ ] Walkthrough with Jupyter Notebook
