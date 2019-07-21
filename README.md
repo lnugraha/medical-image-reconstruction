@@ -13,6 +13,8 @@
   <li /> Filtered Back Projection (<b>FBP</b>) </li>
 </ol>
 
+What will be a typical size of CT image slices? Are they always square-shaped? For most clinical applications, resolution of cross-sectional images are set to 512 x 512 pixels and 1024 x 1024 pixels or more for the state-of-the-art CT scanners (research purpose), see reference below. Therefore, it is safe to assume that a CT image slice will always come with a size of 512 x 512 pixels, as such size has been well enthrenced in the radiological community as a standard.
+
 ## Comparison between ART and FBP ##
 The following table compares each reconstructed image with the original version. Each image has a size of 128 x 128 pixels.
 <p align="center">
@@ -44,3 +46,6 @@ The following table compares each reconstructed image with the original version.
   - [X] Using Matlab
 * Filtered Back Projection (**FBP**)
   - [X] Using Matlab
+
+## References ##
+1. Martin J. Willemink and Peter B. Noel. (2018). "The Evolution of Image Reconstruction for CT - from Filtered Back Projection to Artificial Intelligence". European Radiology [download](https://doi.org/10.1007/s00330-018-5810-7)
