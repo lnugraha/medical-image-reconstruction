@@ -48,6 +48,9 @@ The following table compares each reconstructed image with the original version.
 * Filtered Back Projection (**FBP**)
   - [X] Using Matlab
   - [ ] Using Python Scikit Learn (coming soon)
+  - [ ] To be included: Back projection without ramp filter
 
 ## References ##
 1. Martin J. Willemink and Peter B. Noel. (2018). "The Evolution of Image Reconstruction for CT - from Filtered Back Projection to Artificial Intelligence". European Radiology [download](https://doi.org/10.1007/s00330-018-5810-7)
+2. Avinash Kak and Malcolm Slaney. (1988). "Principles of Computerized Tomographic Imaging Chapter 3 and 7". IEEE PRESS. New York [download](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Anal.Armon./Principles_of_CT_Imaging/Kak&Slaney-CTI-reduced.pdf)
+3. Jerrold T. Bushberg, J. Anthony Seibert, Edwin M. Leidholdt Jr., and John M. Boone. (2011). "The Essential Physics of Medical Imaging, Third Edition". LWW; Third, North American Edition [download](https://www.amazon.com/Essential-Physics-Medical-Imaging-Third/dp/0781780578)
