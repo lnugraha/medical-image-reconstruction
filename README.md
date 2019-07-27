@@ -44,8 +44,10 @@ The following table compares each reconstructed image with the original version.
 ## Progress Line ##
 * Algebraic Reconstruction Technique (**ART**)
   - [X] Using Matlab
+  - [ ] Using Python Scikit Learn (coming soon)
 * Filtered Back Projection (**FBP**)
   - [X] Using Matlab
+  - [ ] Using Python Scikit Learn (coming soon)
 
 ## References ##
 1. Martin J. Willemink and Peter B. Noel. (2018). "The Evolution of Image Reconstruction for CT - from Filtered Back Projection to Artificial Intelligence". European Radiology [download](https://doi.org/10.1007/s00330-018-5810-7)
