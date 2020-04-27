@@ -5,12 +5,15 @@
 ##### キーワード: CTスキャナ, 逆ラドン変換, 画像の再構成, サイノグラム                       #####
 
 ## Introduction ##
-<p align="center">"<i>Seeing is believing</i>"; "百聽不如一見"</center>; "百聞は一見にしかず"</p>
-<p align="justify">All idioms above describe how important an image is compared with hundreds of words. We would like reconstruct CT images from their respective sinogram (raw data). Assuming readers are already familiar with <b>Radon Transform</b>, this repository attempts to reconstruct a CT sinogram using the following two popular methods:</p>
 
 <ol>
-  <li /> Algebraic Reconstruction Technique (<b>ART</b>) -- colloquially called <b>Iterative Method</b> </li>
-  <li /> Filtered Back Projection (<b>FBP</b>) </li>
+  <li/> CT Inverse Radon Transformation </li>
+    <ul>
+      <li /> Algebraic Reconstruction Technique (<b>ART</b>) -- <b>Iterative Method</b> </li>
+      <li /> Filtered Back Projection (<b>FBP</b>) </li>
+    </ul>
+  <li/> CT Reconstruction in 2D Domain </li>
+  <li/> CT Reconstruction in 3D Domain </li>
 </ol>
 
 What will be a typical size of CT image slices? Are they always square-shaped? For most clinical applications, resolution of cross-sectional images are set to 512 x 512 pixels and 1024 x 1024 pixels or more for the state-of-the-art CT scanners (research purpose), see reference below. Therefore, it is safe to assume that a CT image slice will always come with a size of 512 x 512 pixels, as such size has been well enthrenced in the radiological community as a standard.
@@ -39,16 +42,15 @@ The following table compares each reconstructed image with the original version.
 | **Contrast**   | Good       | Poor       |
 | **Noise**      | Low        | High       |
 
-<hr />
 
-## Progress Line ##
-* Algebraic Reconstruction Technique (**ART**)
-  - [X] Using Matlab
-  - [ ] Using Python Scikit Learn (coming soon)
-* Filtered Back Projection (**FBP**)
-  - [X] Using Matlab
-  - [ ] Using Python Scikit Learn (coming soon)
-  - [ ] To be included: Back projection without ramp filter
+## CT Reconstruction in 2D Domain ##
+
+## CT Reconstruction in 3D Domain ##
+<p align="center">
+<image src="./reconstructed/pinnacle3-8.2g-phantom-chest.png">
+</p>
+
+<hr />
 
 ## References ##
 1. Martin J. Willemink and Peter B. Noel. (2018). "The Evolution of Image Reconstruction for CT - from Filtered Back Projection to Artificial Intelligence". European Radiology [download](https://doi.org/10.1007/s00330-018-5810-7)
