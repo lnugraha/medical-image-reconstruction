@@ -44,11 +44,17 @@ The following table compares each reconstructed image with the original version.
 
 
 ## CT Reconstruction in 2D Domain ##
+<p align="center">
+<image src="./reconstructed/pinnacle3-8.2g-phantom-chest.gif">
+</p>
 
 ## CT Reconstruction in 3D Domain ##
 <p align="center">
 <image src="./reconstructed/pinnacle3-8.2g-phantom-chest.png">
 </p>
+
+## CT Window Filtering ##
+<p align="center"> Coming Soon... </p>
 
 <hr />
 
