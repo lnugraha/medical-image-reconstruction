@@ -1,3 +1,8 @@
+## Medical Imaging Reconstruction Algorithm General Endpoint (M.I.R.A.G.E) ##
+
+##  Introduction ##
+Reconstructing medical images from raw data stored as DICOM format
+
 ## Visualization of Inverse Radon Transform Using Arithmetic Libraries (V.I.R.T.U.A.L) ##
 
 ##### Keywords: CT Scanners, Inverse Radon Transform, Sinogram, and Image Reconstruction #####
