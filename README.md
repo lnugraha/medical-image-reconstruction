@@ -1,6 +1,6 @@
 ## Medical Imaging Reconstruction Algorithm General Endpoint (M.I.R.A.G.E) ##
 
-##  Introduction ##
+###  Introduction ###
 Reconstructing medical images from raw data stored as DICOM format
 
 ## Visualization of Inverse Radon Transform Using Arithmetic Libraries (V.I.R.T.U.A.L) ##
@@ -9,7 +9,7 @@ Reconstructing medical images from raw data stored as DICOM format
 ##### 關進     : CT掃描, 對偶雷登變換, 正弦圖, 圖像重建                                    #####
 ##### キーワード: CTスキャナ, 逆ラドン変換, 画像の再構成, サイノグラム                       #####
 
-## Introduction ##
+### Introduction ###
 
 <ol>
   <li/> CT Inverse Radon Transformation </li>
@@ -23,7 +23,7 @@ Reconstructing medical images from raw data stored as DICOM format
 
 What will be a typical size of CT image slices? Are they always square-shaped? For most clinical applications, resolution of cross-sectional images are set to 512 x 512 pixels and 1024 x 1024 pixels or more for the state-of-the-art CT scanners (research purpose), see reference below. Therefore, it is safe to assume that a CT image slice will always come with a size of 512 x 512 pixels, as such size has been well enthrenced in the radiological community as a standard.
 
-## Comparison between ART and FBP ##
+### Comparison between ART and FBP ###
 The following table compares each reconstructed image with the original version. Each image has a size of 128 x 128 pixels.
 <p align="center">
 <table>
@@ -48,17 +48,17 @@ The following table compares each reconstructed image with the original version.
 | **Noise**      | Low        | High       |
 
 
-## CT Reconstruction in 2D Domain ##
+### CT Reconstruction in 2D Domain ###
 <p align="center">
 <image src="./reconstructed/pinnacle3-8.2g-phantom-chest.gif">
 </p>
 
-## CT Reconstruction in 3D Domain ##
+### CT Reconstruction in 3D Domain ###
 <p align="center">
 <image src="./reconstructed/pinnacle3-8.2g-phantom-chest.png">
 </p>
 
-## CT Window Filtering ##
+### CT Window Filtering ###
 <p align="center"> Coming Soon... </p>
 
 <hr />
