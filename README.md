@@ -1,7 +1,7 @@
-## Medical Imaging Reconstruction Algorithm General Endpoint (M.I.R.A.G.E) ##
+## Medical Imaging Reconstruction Algorithm Examples (M.I.R.A.G.E) ##
 
 ###  Introduction ###
-Reconstructing medical images from raw data stored as DICOM format
+Reconstructing medical images from raw data stored as a commonly used DICOM format
 
 ## Visualization of Inverse Radon Transform Using Arithmetic Libraries (V.I.R.T.U.A.L) ##
 
